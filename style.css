@@ -15,21 +15,18 @@ main li{
     width:100px;
     height:200px;
     background-color: black;
-    position: fixed;
-    left:1028px;
-    text-align:right;
+    float:right;
 }
 
 .logo{
-    position: absolute;
+    position: relative;
     left: 5px;
     top: 5px;
 }
 
 .logo1{
-    position: absolute;
-    left: 5px;
-    top: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 
 .nav{
