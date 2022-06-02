@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: gray;
+}
+
+h1{
+    text-align: center;
+}
+
+main li{
+    font-size: 20px;
+}
+
+.logos{
+    width:100px;
+    height:200px;
+    background-color: black;
+    position: fixed;
+    left:1028px;
+}
+
+.logo{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.logo1{
+    position: absolute;
+    left: 5px;
+    top: 105px;
+}
+
+.nav{
+    border:2px solid black;
+    font-size: 20px;
+    margin:20px;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding: 5px;
+}
