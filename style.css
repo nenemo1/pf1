@@ -17,6 +17,7 @@ main li{
     background-color: black;
     position: fixed;
     left:1028px;
+    text-align:right;
 }
 
 .logo{
